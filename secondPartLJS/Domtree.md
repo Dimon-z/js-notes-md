@@ -23,6 +23,8 @@ setTimeout(() => document.body.style.background = '', 3000); // вернуть �
 ```
 
 DOM – это представление HTML-документа в виде дерева тегов. Вот как оно выглядит:
-![[js-notes-md/assets/bmp/DomProst.bmp]]
+
+
+![alt text](https://github.com/Dimon-z/js-notes-md/blob/develop/assets/bmp/DomProst.bmp?raw=true)
 
 каждый узел дерева - обьект. У тектовых узлов не бывает потомков.

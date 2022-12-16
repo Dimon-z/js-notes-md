@@ -2,4 +2,7 @@
 
 Есть 6 основных методов поиска элементов DOM
 
-![[js-notes-md/assets/bmp/selectors.bmp]]
+
+![alt text](https://github.com/Dimon-z/js-notes-md/blob/develop/assets/bmp/selectors.bmp?raw=true)
+
+
